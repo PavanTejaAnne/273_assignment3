@@ -1,0 +1,10 @@
+mysql-python
+sqlalchemy
+Flask
+flask
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Script
+Flask-Migrate
+simplejson
+redis
